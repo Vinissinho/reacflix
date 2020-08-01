@@ -29,7 +29,7 @@ function CadastroCategoria() {
 
   
   useEffect(() => {
-    console.log('HueHueHue');
+    console.log('HAHAHA');
     const URL = 'http://localhost:8080/categorias';
     fetch(URL)
       .then(async (respostaDoServidor) => {
